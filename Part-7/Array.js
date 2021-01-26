@@ -20,7 +20,7 @@ numbers1.push(300);
 console.log(numbers1);
 numbers1.unshift();//First Element add
 console.log(numbers1);
-numbers1.shift(); //Firs Element Delete
+numbers1.shift(); //First Element Delete
 console.log(numbers1);
 numbers1.pop();
 numbers1.splice(1, 1);

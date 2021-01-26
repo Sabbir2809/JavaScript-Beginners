@@ -34,13 +34,14 @@ console.log(address);
 
 //Variable naming convension: letter, number,_ , $
 //Variable name can not start with number.
-let Name;
-var probles99;
-console.log(probles99);
+let name;
+var problems99;
+console.log(problems99);
 
 let greetings = 'Hello';
 console.log(greetings);
 
+//
 let firstNames; //Camel Case -- Suggested
 let first_names; //underscore
 let FirstNames; //Pascal Case: object, constructor, function, ES6, class

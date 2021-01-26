@@ -3,34 +3,35 @@ let example;
 example = String(55);
 example = String(5 + 5);
 example = String(19215);
-console.log(example);
+console.log(typeof example);
 
 // Date to String
 example = String(new Date());
-console.log(example);
+console.log(typeof example);
 
 // Boolean to String
 example = String(true);
-console.log(example);
+console.log(typeof example);
 
 //Array to String
 example = String([1, 2, 3]);
-console.log(example);
+console.log(typeof example);
 
 //Another way with toString() method.
 example = (555).toString();
-console.log(example);
+console.log(typeof example);
 
 //String to Number
 example = Number("29");
-console.log(example);
+console.log(typeof example);
 
 //Boolean to Number
 example = Number(true);
-console.log(example);
+console.log(typeof example);
 
 //Text to Number
 example = Number("Hello JS");
+console.log(typeof example);
 
 //Another ways
 example = parseInt("3.14161520");

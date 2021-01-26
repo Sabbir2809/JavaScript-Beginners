@@ -12,6 +12,7 @@ function hello(){
     return "Hello";
 }
 
+
 /*
 //without template string(ES5)-Old
 html = "<ul>" +
@@ -23,6 +24,7 @@ html = "<ul>" +
 
 document.body.innerHTML = html;
 */
+
 //With template String (ES6)
 html = `
     <ul>

@@ -2,7 +2,6 @@ let value;
 let num1 = 10;
 let num2 = 5;
 
-
 // Simple Math
 value = num1 + num2;
 console.log(value);
@@ -18,6 +17,7 @@ console.log(value);
 
 value = num1 % num2;
 console.log(value);
+console.log("\n");
 
 // Precedent: *, /, +, -
 value = 5 + 10 * 2;
@@ -25,7 +25,6 @@ console.log(value);
 value = (5 + 10) * 2;
 console.log(value);
 console.log("\n");
-
 
 
 // Math Object

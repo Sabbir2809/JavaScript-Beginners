@@ -1,6 +1,6 @@
 //Data Type in JavaScript
 /*
-    Primitive Data Types:
+    1.Primitive Data Types:
         -Boolean
         -Number
         -String
@@ -8,9 +8,10 @@
         -Symbol
         -Undefined
 
-    Complex Data Types:
+    2.Complex Data Types:
         -Object
 */
+
 
 //Boolean
 let val1 = true;
